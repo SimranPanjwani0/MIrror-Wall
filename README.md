@@ -1,27 +1,21 @@
-# Web View Application
-#### This Flutter application is a platform converter chat app that allows users to chat with their contacts, <br> manage their profile, and switch between Android and iOS platforms seamlessly. <br> The app also offers light and dark theme modes for a personalized user experience.
+# WebView Browser Application
+##### A Flutter application that provides multiple browser types within the app. <br> Users can bookmark their favorite websites and view their browsing history. <br> The app offers seamless performance, intuitive UI, and reliable internet connection handling.
 
 
 ## Features
-#### Chat Functionality: Add contact numbers and chat with them in real-time.
-#### Profile Management: Update profile details including username, status, and profile picture.
-#### Theme Switching: Toggle between light and dark modes to suit your preference.
-#### Platform Switching: Seamlessly switch the app's platform between Android and iOS without losing data or functionality.
+##### Multiple types of browsers for a diverse browsing experience.
+##### Bookmark websites for easy access.
+##### View and manage browsing history.
+##### Offline and online connectivity handling.
+##### Responsive and user-friendly UI.
 
 
-## Usage
-#### Add Contacts: Navigate to the contacts section and add a new contact by entering their phone number.
-#### Chat: Select a contact to start chatting.
-#### Profile Management: Update your profile details like username, status, and profile picture in the profile section.
-#### Theme Switching: Change the theme from light to dark or vice versa from the settings menu.
-#### Platform Switching: Easily switch the app's platform between Android and iOS from the settings.
-
-
-# Technologies Used
-#### Flutter: Cross-platform framework for building the application.
-####  Dart: Programming language used with Flutter.
-#### Provider: State management.
-#### Shared Preferences: To store theme and user profile settings.
+## Packages Used
+##### url_launcher – Launch URLs in the browser or external apps.
+##### google_fonts – Use custom fonts from Google Fonts.
+##### provider – Manage state efficiently.
+##### flutter_inappwebview – Provide in-app webview functionality.
+##### connectivity_plus – Handle internet connectivity status.
 
 # OUTPUT :
 
