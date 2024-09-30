@@ -1,4 +1,4 @@
-# Platform Converter Chat Application
+# Web View Application
 #### This Flutter application is a platform converter chat app that allows users to chat with their contacts, <br> manage their profile, and switch between Android and iOS platforms seamlessly. <br> The app also offers light and dark theme modes for a personalized user experience.
 
 
